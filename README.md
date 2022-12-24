@@ -3,7 +3,7 @@ University of Southern California (USC ✌🏼) Fall 2022 EE 510 (Linear Algebra
 
 
 ### Homeworks:
-All homework questions - [>click<](https://github.com/FDGod99/EE_510/blob/main/Homeworks/All_Homework_Ques_1-12.pdf)
+All homework questions - [PDF](https://github.com/FDGod99/EE_510/blob/main/Homeworks/All_Homework_Ques_1-12.pdf)
 | No. | Homework Solutions                                                                                             | Topics | Score |
 |-----|----------------------------------------------------------------------------------------------------------------|--------|-------|
 | 1   | [Homework 1](https://github.com/FDGod99/EE_510/blob/main/Homework_Solutions/Homework1_Sol.pdf)                 |        | 100%  |
